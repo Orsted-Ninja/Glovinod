@@ -1,0 +1,14 @@
+# requirements.txt
+
+# Core libraries for data manipulation and analysis
+pandas>=1.4.0
+numpy>=1.21.0
+
+# Machine Learning framework
+scikit-learn>=1.0.0
+
+# For saving and loading the model pipeline
+joblib>=1.1.0
+
+# Framework for the interactive web interface
+streamlit>=1.10.0
