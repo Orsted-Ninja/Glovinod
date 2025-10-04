@@ -11,4 +11,6 @@ scikit-learn>=1.0.0
 joblib>=1.1.0
 
 # Framework for the interactive web interface
+
 streamlit>=1.10.0
+plotly
